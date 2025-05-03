@@ -18,7 +18,7 @@ Investigate on the various categories of tools as follows:
 
 ### Step 3:
 
-Open terminal and try execute some kali linux commands
+Open terminal and try execute some kali linux commands.
 
 ## EXECUTION STEPS AND ITS OUTPUT:
 ## PROGRAM:
